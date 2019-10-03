@@ -23,3 +23,5 @@ This "extra" generator may be specified as:
 
 ``Sublime Text 2 - Unix Makefiles``
  Generate with :generator:`Unix Makefiles`.
+This is lab 05
+It's about Javascript 2
